@@ -1,1 +1,1 @@
-# exercicios_maratonas_python
+Códigos de exercicios usados em maratonas de python
